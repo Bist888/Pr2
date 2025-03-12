@@ -1,0 +1,31 @@
+# Папки сборки
+build/
+out/
+cmake-build-*/
+
+# Файлы IDE
+.idea/
+.vscode/
+*.suo
+*.user
+*.sln.docstates
+
+# Скомпилированные файлы
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Файлы резервных копий
+backups/
+*.bak
+*.zip
+
+# Временные файлы
+*.tmp
+*.log
+
+# Файлы системы
+.DS_Store
+Thumbs.db 
